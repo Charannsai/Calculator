@@ -11,3 +11,17 @@ Technologies Used
 HTML5: For structuring the calculator’s layout.
 CSS3: For styling the calculator and making it responsive using media queries and flexbox.
 JavaScript: For the logic behind the calculator operations (input handling, arithmetic calculations, etc.).
+Getting Started
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/responsive-calculator.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd responsive-calculator
+Open the index.html file in your browser: You can open the index.html file directly using any modern web browser.
